@@ -1,0 +1,35 @@
+{
+    "name" : "Work PWA",
+    "short_name": "Nom court",
+    "background_color": "#ffffff",
+    "theme_color": "#00000f",
+    "icons": [
+        {
+            "src": "/icons/PNG_transparency_demonstration_1.png",
+            "type": "image/png",
+            "sizes": "390x292"
+        },
+        {
+            "src": "/icons/—Pngtree—realistic butterfly_4152055.png",
+            "type": "image/png",
+            "sizes": "1200x1200"
+        }
+    ],
+    "screenshots": [
+        {
+          "src": "/icons/screenshot-desktop.jpg",
+          "sizes": "1472x832",
+          "type": "image/jpg",
+          "form_factor": "wide"
+        },
+        {
+          "src": "/icons/screenshot-mobile.jpg",
+          "sizes": "1472x832",
+          "type": "image/jpg",
+          "form_factor": "narrow"
+        }
+      ],
+    "start_url": "/?source=pwa",
+    "id": "/?source=pwa",
+    "display": "standalone"
+}
